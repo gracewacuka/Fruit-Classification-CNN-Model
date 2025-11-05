@@ -1,4 +1,4 @@
-🍎 Project Description
+Project Description
 
 The Fruit Classification CNN Model is a deep learning web application designed to identify and classify different types of fruits from uploaded images. Users can upload an image of a fruit, and the app instantly predicts which fruit it is along with a confidence score.
 
